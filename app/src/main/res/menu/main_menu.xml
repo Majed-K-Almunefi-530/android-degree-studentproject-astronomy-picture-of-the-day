@@ -10,7 +10,8 @@
         android:showAsAction="ifRoom"
         android:title="@string/action_pick_day"
         app:showAsAction="ifRoom"
-        tools:ignore="AppCompatResource" />
+        tools:ignore="AppCompatResource"
+        />
 
     <item
         android:id="@+id/action_download_hd"
